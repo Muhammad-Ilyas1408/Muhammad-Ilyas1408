@@ -1,7 +1,7 @@
 ![logo](https://github.com/Muhammad-Ilyas1408/Muhammad-Ilyas1408/blob/main/banner2.png)
 
 <h1 align="center">Hi there, I'm Muhammad Ilyas 👋</h1>
-<h3 align="center">Python Developer | Machine Learning, Data Science Freshman | Deep Learning Beginner | CS-UoP ‘25</h3>
+<h3 align="center">Machine Learning Engineer | Deep Learning | GenAI | Data Science Freshman</h3>
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
