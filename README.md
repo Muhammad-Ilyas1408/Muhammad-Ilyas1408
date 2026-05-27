@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Muhammad Ilyas 👋</h1>
 <h3 align="center">AI/ML Engineer | Deep Learning |NLP | Generative AI |  Agentic AI</h3>
 
@@ -93,8 +92,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ilyas1408" alt="streak_stats" />
 </p>
-
----
-
-⭐ I enjoy learning by building projects and experimenting with modern AI tools and frameworks.
-```
