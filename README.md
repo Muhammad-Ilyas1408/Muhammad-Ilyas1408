@@ -59,7 +59,8 @@ I am an AI/ML Engineer focused on Machine Learning, Deep Learning, NLP, and Gene
 - Git & GitHub
 - Jupyter Notebook
 - Google Colab
-```
+
+---
 
 ## Currently Working On
 
