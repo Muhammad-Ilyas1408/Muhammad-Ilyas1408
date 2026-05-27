@@ -24,11 +24,13 @@ I am an AI/ML Engineer focused on Machine Learning, Deep Learning, NLP, and Gene
 - SQL
 - FastAPI
 - Streamlit
+- Pydantic
 
 ### AI & Machine Learning
 - Scikit-learn
-- TensorFlow
 - PyTorch
+- TensorFlow
+- Keras
 - NLP
 - Deep Learning
 
@@ -39,14 +41,25 @@ I am an AI/ML Engineer focused on Machine Learning, Deep Learning, NLP, and Gene
 - RAG Pipelines
 - Agentic AI
 
-### Databases & Tools
+### Techniques & Methodologies
+- Retrieval-Augmented Generation (RAG)
+- Agentic Workflows
+- LoRA / QLoRA
+- Prompt Engineering
+- Fine-Tuning
+- AI Agents
+
+### Databases & Vector Stores
 - PostgreSQL
 - SQLite
+- FAISS
+- ChromaDB
+
+### Tools & Platforms
 - Git & GitHub
 - Jupyter Notebook
 - Google Colab
-
----
+```
 
 ## Currently Working On
 
