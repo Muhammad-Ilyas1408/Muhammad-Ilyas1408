@@ -1,12 +1,8 @@
 # Hello, I am Muhammad Ilyas
 
-### AI/ML Enthusiast | Deep Learning | NLP | Generative AI | Agentic AI
+### AI/ML Engineer | Deep Learning | NLP | Generative AI | Agentic AI
 
-I am passionate about Machine Learning, Deep Learning, NLP, and Generative AI. I enjoy learning by building projects and exploring modern AI tools, frameworks, and workflows.
-
-Currently, I am focused on improving my understanding of LLMs, RAG pipelines, and Agentic AI systems. I like working with technologies such as LangChain, LangGraph, Hugging Face, FastAPI, and Streamlit while building practical AI applications.
-
-My goal is to become a strong AI/ML Engineer through continuous learning, experimentation, and hands-on development.
+I am an AI/ML Engineer focused on Machine Learning, Deep Learning, NLP, and Generative AI, with a strong interest in LLM applications, RAG pipelines, and agentic AI systems. My work focuses on building practical AI solutions while developing a deeper understanding of intelligent systems and real-world AI applications.
 
 ---
 
